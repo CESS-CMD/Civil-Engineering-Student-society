@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#070b14">
+<meta name="description" content="Civil Engineering Student Society, NIT Arunachal Pradesh">
+<title>CESS NITAP | Civil Engineering Student Society</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Inter:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="importmap">{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js"}}</script>
+</head>
+<body>
+<header id="top">
+  <a href="#home" class="brand"><img src="photos/CESS_logo.png" alt="" width="40" height="40"><span>CESS NITAP</span></a>
+  <button class="burger" aria-label="Menu" aria-expanded="false"><i></i><i></i><i></i></button>
+  <nav><a href="#about">About</a><a href="#events">Events</a><a href="#messages">Messages</a><a href="#team">Team</a><a href="#gallery">Gallery</a></nav>
+</header>
+
+<main>
+<section id="home" class="hero">
+  <canvas id="scene" aria-hidden="true"></canvas>
+  <div class="hero-text">
+    <h1>Civil Engineering<br>Student Society</h1>
+    <p id="tagline"></p>
+    <p class="hero-links"><a class="btn" href="#events">See our events</a><a class="btn ghost" href="#team">Meet the team</a></p>
+  </div>
+  <p class="hint"><span aria-hidden="true">+</span> DRAG TO ROTATE · STRUCTURAL SYSTEM / 001</p>
+</section>
+
+<section id="stats" class="stats"></section>
+
+<section id="about" class="wrap">
+  <h2>Who we are</h2>
+  <div class="two"><div id="about-text"></div><div id="pillars" class="pillars"></div></div>
+  <h2 class="sub">What we work towards</h2>
+  <div id="objectives" class="objs"></div>
+</section>
+
+<section id="events" class="wrap tint">
+  <h2>Events and competitions</h2>
+  <div id="filters" class="filters" role="group" aria-label="Filter events"></div>
+  <div id="event-grid" class="cards"></div>
+</section>
+
+<section id="messages" class="wrap">
+  <h2>Messages</h2>
+  <div id="message-list"></div>
+</section>
+
+<section id="team" class="wrap tint">
+  <h2>Our team</h2>
+  <div id="team-grid" class="team"></div>
+</section>
+
+<section id="gallery" class="wrap">
+  <h2>Gallery</h2>
+  <div class="stage"><div class="ring" id="ring"></div></div>
+  <p id="cap" class="cap" aria-live="polite"></p>
+  <p class="ctrl"><button id="prev" class="btn ghost">Previous</button><button id="next" class="btn ghost">Next</button></p>
+</section>
+</main>
+
+<footer>
+  <img src="photos/CESS_logo.png" alt="" width="48" height="48">
+  <p><strong>Civil Engineering Student Society</strong><br>National Institute of Technology Arunachal Pradesh</p>
+  <p>&copy; <span id="yr"></span> CESS NITAP. Edit all content in <code>data/site.json</code>.</p>
+</footer>
+
+<script src="js/main.js" defer></script>
+<script type="module" src="js/scene.js"></script>
+</body>
+</html>

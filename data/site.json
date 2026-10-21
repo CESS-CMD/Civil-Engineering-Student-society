@@ -1,0 +1,64 @@
+{
+"tagline": "From Vision to Structure, From Students to Engineers.",
+"about": [
+ "The Civil Engineering Students Society, known as CESS, is a non-profit organization within the Department of Civil Engineering at NIT Arunachal Pradesh. Its members include undergraduate and postgraduate students, faculty and alumni.",
+ "CESS gives students a platform to show and sharpen their talents through events and activities planned across the year."
+],
+"pillars": [
+ {"icon":"⚙","title":"Technical events","text":"Seminars, workshops and guest lectures by industry experts."},
+ {"icon":"🏗","title":"Field exposure","text":"Industrial visits and site tours."},
+ {"icon":"💡","title":"Innovation","text":"Forums for creative thinking, debate and ideas."},
+ {"icon":"🤝","title":"Community","text":"One platform for students, faculty and alumni."}
+],
+"objectives": [
+ {"title":"Professional readiness","text":"Expose future civil engineers to the challenges of the profession and keep them informed about current trends."},
+ {"title":"Continuous learning","text":"Involve students in guest lectures, seminars and industrial visits through the academic year."},
+ {"title":"Innovation culture","text":"Encourage every student to share ideas through meetings, discussions, debates and seminars."}
+],
+"events": [
+ {"type":"Competition","title":"Ideathon 1.0","text":"Students pitched ideas to a panel. Winners were felicitated by the Director and the Dean (SA)."},
+ {"type":"Competition","title":"Ideathon 2.0","text":"A second round of the ideas competition, with judges evaluating each proposal."},
+ {"type":"Competition","title":"Bridge Making Competition","text":"Teams built model bridges. The Most Aesthetic Bridge was recognised."},
+ {"type":"Workshop","title":"Water Filter Event","text":"Faculty and coordinators hosted a hands-on water filter activity."},
+ {"type":"Guest lecture","title":"Guest lectures and seminars","text":"Experts from institutes and industry speak to students, including Dr. Rishikesh Bharti of IIT Guwahati."},
+ {"type":"Field visit","title":"Industrial visits","text":"Site tours that connect classroom learning to real projects."}
+],
+"messages": [
+ {"photo":"photos/Prof. Mohan V Aware.jpg","name":"Prof. Mohan V Aware","role":"Director, NIT Arunachal Pradesh","email":"director@nitap.ac.in","title":"Director's message",
+  "text":["Dear Student,","NIT Arunachal Pradesh has proved to be one of the best institutions in North East India, with strong academics and a research environment on cutting-edge topics.","I congratulate the entire team of the NITAP Civil Engineering Student Society for creating a platform to share the positive changes happening on campus."],
+  "sign":"With a eupeptic heart, I wish my best to the Civil Engineering Student Society."},
+ {"photo":"photos/Dr. Mainak Mallik.jpg","name":"Dr. Mainak Mallik","role":"Head of Department, Civil Engineering","email":"mainak@nitap.ac.in","title":"HOD's message",
+  "text":["Dear Student,","Greetings from the Civil Engineering Student Society.","I urge each of you to forge ahead in achieving your dreams with all your might, and to come together as one to reach greater heights in your careers."],
+  "sign":"Warm regards, HOD, Dept. of CE."},
+ {"photo":"photos/Dr. Jayakesh K.jpg","name":"Dr. Jayakesh K","role":"Faculty Advisor, Civil Engineering","email":"jayakesh@nitap.ac.in","title":"Advisor's message",
+  "text":["Dear Students,","It is an honor to be part of this initiative. CESS explores the unseen talent in students and keeps them abreast of modern trends in civil engineering.","Your participation and contribution to CESS are always welcome."],
+  "sign":"One platform, One CESS and many opportunities."},
+ {"photo":"photos/Md. Farhan Ansari.jpeg","name":"Kaling Yapi","role":"President, CESS","email":"kaling.ce.24@nitap.ac.in","title":"President's message",
+  "text":["Dear Student,","This is your platform, built on innovation, collaboration and excellence, where ideas meet opportunities.","CESS bridges the gap between academic knowledge and practical exposure through events, workshops and competitions."],
+  "sign":"Warm regards, President CESS."}
+],
+"team": [
+ {"photo":"photos/hari singh .jpeg","name":"Dikenno Pul","role":"Vice President","email":"dikenno.ce.24@nitap.ac.in"},
+ {"photo":"photos/Rishav Dev Raj.jpeg","name":"Mission Doley","role":"General Secretary","email":"mission.ce.24@nitap.ac.in"},
+ {"photo":"photos/Aaditya Sharma.jpeg","name":"Nitin choudhry","role":"Additional General Secretary","email":"nitin.ce.25@nitap.ac.in"},
+ {"photo":"photos/Arun Kumar.png","name":"Raj Chouhan","role":"Technical Head","email":"raj.ce.24@nitap.ac.in"},
+ {"photo":"photos/Ashutosh meena.jpeg","name":"Chochong Tsering","role":"Treasurer","email":"chochong.ce.24@nitap.ac.in"},
+ {"photo":"photos/Umashankar Sahu.jpeg","name":"Umashankar Sahu","role":"Management Head","email":"umashankar.ce.23@nitap.ac.in"},
+ {"photo":"photos/Himanshu_Ranjan.jpg","name":"Himanshu Ranjan","role":"Student Coordinator","email":"himanshu.ce.23@nitap.ac.in"},
+ {"photo":"photos/Aaditya Dhayal.jpeg","name":"Aaditya Dhayal","role":"Student Coordinator","email":"aaditya.ce.23@nitap.ac.in"},
+ {"photo":"photos/tabing konya.jpeg","name":"Tabing Konya","role":"Student Coordinator","email":"tabing.ce.25@nitap.ac.in"},
+ {"photo":"photos/nitin.jpeg","name":"Nitin Kumar","role":"Student Coordinator","email":"nitin.ce.25@nitap.ac.in"}
+],
+"gallery": [
+ {"src":"photos/Gallery/Gallery1.jpg","caption":"Director sir in discussion with esteemed guests."},
+ {"src":"photos/Gallery/Gallery2.jpg","caption":"Faculty and coordinators hosting the Water Filter Event."},
+ {"src":"photos/Gallery/Gallery3.jpg","caption":"Director sir and Dean (SA) felicitating the winners of Ideathon 1.0."},
+ {"src":"photos/Gallery/Gallery4.jpg","caption":"Judges evaluating ideas at Ideathon 2.0."},
+ {"src":"photos/Gallery/Gallery5.jpg","caption":"HOD sir sharing a cherished moment."},
+ {"src":"photos/Gallery/Gallery6.jpg","caption":"The team bids a warm farewell to Dr. Vijender Chouhan and his wife at the airport."},
+ {"src":"photos/Gallery/Gallery7.jpg","caption":"Ideathon 2.0 winners."},
+ {"src":"photos/Gallery/Gallery8.jpg","caption":"Ideathon 2.0."},
+ {"src":"photos/Gallery/Gallery9.jpeg","caption":"HOD sir felicitating Dr. Rishikesh Bharti, IIT Guwahati."},
+ {"src":"photos/Gallery/Gallery10.jpg","caption":"Most Aesthetic Bridge at the Bridge Making Competition."}
+]
+}
